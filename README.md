@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarineLigny
 
-#🚀 Compétences
+🚀 Compétences
 🎨 Front-end
 - HTML5 – Structure tout ! 🏗️
 - CSS3 – Le style, c'est moi 🎨
