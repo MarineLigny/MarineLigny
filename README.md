@@ -2,10 +2,10 @@
 
 🚀 Compétences
 🎨 Front-end
-- HTML5 – Structure tout ! 🏗️
-- CSS3 – Le style, c'est moi 🎨
+- HTML – Structure tout ! 🏗️
+- CSS – Le style, c'est moi 🎨
 - SASS – Stylé et optimisé 💅
-- React.js – Interfaces interactives en mode ⚛️
+- React.js (Typescript) – Interfaces interactives en mode ⚛️
 - Vite – Dev en turbo mode ⚡
 
 ⚙️ Back-end
@@ -26,6 +26,6 @@
 🎮 Loisirs & Passion
 - 🎮 Gaming → Mode tryhard activé 🎯 (ou parfois casual en mode détente 😎)
 - 📖 Lecture → Romans de SF, fantasy, thriller… Un bon livre = un bon voyage 🛸
-- 🐱 Mes chats → Code sous surveillance féline 👀🐾 (Oui, ils marchent parfois sur mon clavier)
+- 🐱 Mes chats → Code sous surveillance 👀🐾 (Oui, ils marchent parfois sur mon clavier)
 
 💡 Fun fact : Si un bug survient, c’est probablement parce qu’un de mes chats a marché sur mon clavier. 😼💻
